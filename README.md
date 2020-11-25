@@ -39,4 +39,5 @@ would return `JenkinsTimer`
 - On the Jenkins job configuration page (might need a plugin)
 * `Add build step` -> `Execute system Groovy script` -> Select `Groovy script file` and paste the path to the script
 
-## Note: First run might cause an `In-Process ScriptApproval` and you'll need an admin to approve the "quarantined" script
+## Note:
+First run might cause an `In-Process ScriptApproval` and you'll need an admin to approve the "quarantined" script
